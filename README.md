@@ -1,1 +1,2 @@
-# Cokes
+worker: node bot.js
+
